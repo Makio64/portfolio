@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"distan",
+				"distanceY"
+			],
+			[
+				"addEve",
+				"addEventListener"
+			],
+			[
+				"prev",
+				"prevY"
+			],
+			[
+				"touch",
+				"touchstart"
+			],
+			[
+				"scene",
+				"scene3D"
+			],
+			[
+				"box",
+				"boxs"
+			],
+			[
+				"contr",
+				"construct"
+			],
+			[
+				"tenta",
+				"tentacle"
+			],
+			[
+				"for",
+				"forin	Array Comprehension"
+			],
+			[
+				"snak",
+				"snakes"
+			],
+			[
+				"PI",
+				"PI180"
+			],
+			[
+				"force",
+				"forceAngle"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"init",
+				"initController"
+			],
+			[
+				"onComplete",
+				"onCompleteFadeOut"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"onClick",
+				"onClickExit"
+			],
+			[
+				"displa",
+				"isDisplayed"
+			],
+			[
+				"btn",
+				"btncss"
+			],
+			[
+				"vec",
+				"THREE.Vector3"
+			],
+			[
+				"Thre",
+				"THREE.Vector3"
+			],
+			[
+				"thre",
+				"THREE.Vector4"
+			],
+			[
+				"Three",
+				"THREE.Rectangle"
+			],
+			[
+				"Th",
+				"THREE.Clock"
+			],
+			[
+				"di",
+				"divs"
+			],
+			[
+				"upda",
+				"updateSize"
+			],
+			[
+				"scro",
+				"startScroll"
+			],
+			[
+				"scrol",
+				"scroll"
+			],
+			[
+				"fix",
+				"fixPercent"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"last",
+				"lastScrollY"
+			],
+			[
+				"scroll",
+				"scrollSpeed"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"sco",
+				"scrollPercent"
+			],
+			[
+				"log",
+				"LOG"
+			],
+			[
+				"tran",
+				"transitionOut"
+			],
+			[
+				"end",
+				"endScroll"
+			],
+			[
+				"star",
+				"startScroll"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sta",
+				"startScroll"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ip",
+				"isiPad"
+			],
+			[
+				"zombies",
+				"zombies"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"zom",
+				"zombies"
+			],
+			[
+				"background-o",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/davidronai/Desktop/github/octopus01/src/coffee/main.coffee",
+			"settings":
+			{
+				"buffer_size": 2794,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 305.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davidronai/Desktop/github/octopus01/www/img/particle.png",
+		"/Users/davidronai/Desktop/github/octopus01/src/stylus/main.styl",
+		"/Users/davidronai/Desktop/github/octopus01/src/coffee/objects3d/Octopus.coffee",
+		"/Users/davidronai/Desktop/github/octopus01/src/coffee/ui/guiController.coffee",
+		"/Users/davidronai/Desktop/github/octopus01/src/coffee/cameras/CameraController.coffee",
+		"/Users/davidronai/Desktop/github/octopus01/src/coffee/sections/Test.coffee",
+		"/Users/davidronai/Desktop/github/octopus01/README.md",
+		"/Users/davidronai/Desktop/github/octopus01/www/index.html",
+		"/Users/davidronai/Desktop/github/octopus01/src/stylus/global.styl",
+		"/Users/davidronai/Desktop/github/octopus01/src/jade/index.jade",
+		"/Users/davidronai/Desktop/github/portfolio/src/jade/index.jade",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/displays/Instructions.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/displays/MaskButton.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/view/gyroscope/ButtonExit.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/scrolls/TouchController.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/Main.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/index2.html",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/view/gyroscope/Gyroscope3DScene.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/view/gyroscope/GyroscopeContainer.coffee",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/coffee/Main.coffee",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/jade/index.jade",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/global.styl",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/sections/Test.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/objects3d/Octopus.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/objects3d/Tentacle.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/gyroscope/controllers/GyroscopeMouseController.coffee",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/index.html",
+		"/Users/davidronai/Desktop/lexus/trunk/website/discovery/src/coffee/scrolls/MouseController.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/main.styl",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/coffee/CSSBox.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/js/lib/threejs/CSS3DRenderer.js",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/js/lib/RequestAnimationFrame.js",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/index2.html",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/gyroscope.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/gyroscope/controllers/GyroscopeMouseController.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/GyroscopeContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/Main.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/index.html",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/Instructions.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/Scene3DFactory.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/peeling.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/peeling2/PeelingButton.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/peeling2/PeelingObject.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/ui/Scrollbar.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/Gyroscope3DScene.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/peeling2/PeelingDragExperience.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/peeling2/PeelingPopup.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/Procfile",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/scrolls/AScrollController.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/ButtonExit.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/global.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/peeling2/PeelingDragContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/ButtonExit.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/main.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/MaskButton.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/ui.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/scrollMenu/ScrollMenu.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/fonts.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/.htaccess",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/parallax/ParallaxContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/scrolls/MouseController.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/scrolls/TouchController.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/utils/ImageUtils.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gallery2/GalleryContainer2.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/ImageLayer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/Container.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/GyroUIPanel.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/GalleryContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/IntermissionContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/IntroContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/PeelingContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/TerminatorContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/ThanksContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/TitleContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/moodboard/GalleryImage.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/GiantContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/gyroscope/Tracker.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/view/MoodboardContainer.coffee",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/coffee/displays/InstructionButton.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/sections/ASection.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/sections/Contact.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/sections/Work.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/main.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/www/js/lib/modernizr2.6.2.min.js",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/fx/Particles.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/sections/Skills.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/src/coffee/MenuController.coffee",
+		"/Users/davidronai/Desktop/github/portfolio/www/js/lib/three.min.js",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/reset",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/work.styl",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/fonts.styl",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/reset.styl",
+		"/Users/davidronai/Desktop/github/portfolio/src/stylus/skills.styl",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/stylus/skills.styl",
+		"/Users/davidronai/Desktop/github/portfolio/Procfile",
+		"/Users/davidronai/Desktop/github/portfolio/www/js/section/Skill.js",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/stylus/reset.styl",
+		"/Users/davidronai/Desktop/github/CSSCastle/src/stylus/main.styl",
+		"/Users/davidronai/Desktop/Lexus/svn/trunk/website/discovery/src/stylus/scrollbar.styl",
+		"/Users/davidronai/Desktop/github/CSSCastle/www/index.html",
+		"/Users/davidronai/Desktop/github/CSSCastle/README.md",
+		"/Users/davidronai/Desktop/github/CSSCastle/Procfile",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/css/style.css",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/src/Container.coffee",
+		"/C/Users/DAVID PORTABLE/Documents/GitHub/theexperimentalcalendar/www/index.html",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/Cakefile",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/index.html",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/src/Main.coffee",
+		"/C/Users/DAVID PORTABLE/Desktop/project/svn537/trunk/website/spritesheet/textures.css",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/lib/main.js",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/lexus.sublime-project",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/lexus.sublime-workspace",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/lib/ScrollController.js",
+		"/C/Users/DAVID PORTABLE/Desktop/project/lexus/lib/Container.js",
+		"/C/Users/David/Documents/GitHub/theexperimentalcalendar/www/index.html",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/ThanksContainer.coffee",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/Main.coffee",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/Cakefile",
+		"/C/Users/David/Documents/GitHub/theexperimentalcalendar/www/17/experiment.html",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/TouchController.coffee",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/lib/main.js",
+		"/C/Users/David/Documents/GitHub/theexperimentalcalendar/www/17/index.html",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/ScrollController.coffee",
+		"/C/Users/David/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-build",
+		"/C/Users/David/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/Container.coffee",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/src/Controller.coffee",
+		"/C/Users/David/Desktop/project/lexus_ipad_proto2/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"191722",
+			"42404d",
+			"ffffff",
+			"000",
+			"e1e1e1",
+			"sw",
+			"console",
+			"btnMask",
+			"onDrag",
+			"last",
+			"url",
+			" './",
+			"panoramaSides",
+			"textures/cube/Bridge2",
+			";",
+			"append",
+			"tracker",
+			"s.position",
+			":",
+			"s.position",
+			"tentacle.mesh",
+			"\n",
+			"snake",
+			"Snake",
+			"snake",
+			".rota",
+			".r",
+			"forceAngle",
+			"camera",
+			"textures/cube/Bridge2",
+			"theta",
+			"phi",
+			"target",
+			"panoramaSides",
+			"tracker",
+			"enter3DScene",
+			"@$mask",
+			"angleY",
+			"controller",
+			"animCameraIntro",
+			"$el",
+			"side",
+			"classname",
+			"10000",
+			"append",
+			";",
+			"fov",
+			";",
+			" / 2",
+			"init3DScene",
+			"rende",
+			"update",
+			"1000",
+			"300",
+			"1024",
+			"1100",
+			"1000",
+			"2",
+			"1000",
+			"1900",
+			"1045",
+			"1050",
+			"1100",
+			"1000",
+			"512",
+			"activate",
+			"accelerololo",
+			"fadeIn",
+			"addevent",
+			"scrollMenu",
+			"log",
+			"end",
+			"close",
+			"@onClick",
+			"base",
+			"$el",
+			"event",
+			"jquery",
+			"jqueryElement",
+			"isEventInitialized",
+			"js",
+			"btnImage",
+			"btn",
+			".buttonEnterInteraction",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"maskBTN",
+			"btn",
+			"img",
+			"@img",
+			"Exit",
+			"exit",
+			"btn",
+			"=",
+			"log",
+			"closeGyro",
+			"clsoe",
+			"close",
+			"closeBtn",
+			"log",
+			"Circ",
+			"close",
+			"selected",
+			"transition",
+			"f",
+			"activate",
+			"		\n",
+			"35",
+			".35",
+			".5",
+			".45",
+			".7",
+			".4",
+			".6",
+			".3",
+			"x",
+			"touchStartY",
+			"touchStartX",
+			"startX",
+			"document",
+			"Fov",
+			"rotation",
+			"Rotation",
+			"scale",
+			"camera",
+			"handlePosition"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/davidronai/Desktop/github/octopus01/src/coffee/main.coffee",
+					"settings":
+					{
+						"buffer_size": 2794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1768,
+								1768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 960.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 283.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"discovery/.htaccess"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true
+}
